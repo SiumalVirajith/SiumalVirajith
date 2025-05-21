@@ -12,13 +12,17 @@
   <img align="right" src="https://github.com/SiumalVirajith/SiumalVirajith/blob/main/Icons/Life%20Line.gif?raw=true" width="250px">
 </picture>
 
-- :school: **I** am an **Undergraduate** at the **Faculty of Technology, University of Jaffna**, passionate about learning and developing in various fields of technology.
-- 📚 In addition to my studies, I also teach **O/L** and **A/L** students, providing tuition classes.
-  
-- 🌎 I'm passionate about technology and have two major career aspirations
-  - **Full-Stack Developer** 🌐  
-  - **AI/ML Engineer** 🤖  
-- :nerd_face: Always **learning new things**.
+
+🏫 I’m an undergraduate at the **Faculty of Technology, University of Jaffna**, passionate about exploring and building in different areas of technology.
+
+📚 Outside of university, I teach **O/L** and **A/L** students through tuition classes — sharing knowledge is something I truly enjoy.
+
+🌍 My dream is to become:
+- 🌐 A skilled **Full-Stack Developer**
+- 🤖 An innovative **AI/ML Engineer**
+
+🤓 I believe in **learning something new every single day** and pushing myself to grow.
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30px"> &nbsp;&nbsp; <b> Skills</b>
