@@ -12,13 +12,13 @@
   <img align="right" src="https://github.com/SiumalVirajith/SiumalVirajith/blob/main/Icons/Life%20Line.gif?raw=true" width="250px">
 </picture>
 
+🌐 **Full-Stack Developer**
 
 🏫 I’m an undergraduate at the **Faculty of Technology, University of Jaffna**, passionate about exploring and building in different areas of technology.
 
 📚 Outside of university, I teach **O/L** and **A/L** students through tuition classes — sharing knowledge is something I truly enjoy.
 
 🌍 My dream is to become:
-- 🌐 A skilled **Full-Stack Developer**
 - 🤖 An innovative **AI/ML Engineer**
 
 🤓 I believe in **learning something new every single day** and pushing myself to grow.
